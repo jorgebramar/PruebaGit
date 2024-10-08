@@ -1,2 +1,2 @@
 <?php
-    echo "<h1>Esto es simplemente una prueba</h1>";
+    echo "<h2>Esto es simplemente una pruebaaaaa</h2>";
